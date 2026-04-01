@@ -1,0 +1,7 @@
+venv/
+*.mp4
+*.pt
+__pycache__/
+output_phase2/
+output_phase3/
+output_phase4/
